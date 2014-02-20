@@ -1,0 +1,13 @@
+{
+  "name": "component-struct",
+  "description": "C struct style buffer views",
+  "version": "0.0.1",
+  "keywords": [
+    "struct",
+    "binary",
+    "buffer"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
